@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-test= "test1556888"
+test= "testtesttest123213"
 
 import pandas as pd 
 src_dir = "C:\\Users\\arthu\\OneDrive\\桌面\\python\\100年 北部空品區\\"
